@@ -580,6 +580,6 @@
   
   <project path="device/xiaomi/tiffany" name="goayandi/android_device_xiaomi_tiffany" remote="github" revision="los-15.1" />
   <project path="vendor/xiaomi/tiffany" name="goayandi/android_vendor_xiaomi_tiffany" remote="github" revision="los-15.1" />
-  <project path="kernel/xiaomi/msm8953" name="goayandi/android_kernel_xiaomi_msm8953-1" remote="github" revision="los-15.1" />
+  <project path="kernel/xiaomi/msm8953" name="goayandi/android_kernel_xiaomi_msm8953-1" remote="github" revision="lineage-15.1" />
 
 </manifest>
