@@ -577,9 +577,4 @@
   <include name="snippets/lineage.xml" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
-  
-  <project path="device/xiaomi/tiffany" name="goayandi/device_xiaomi_tiffany" remote="github" revision="8.1.x" />
-  <project path="vendor/xiaomi/tiffany" name="goayandi/proprietary_vendor_xiaomi_tiffany" remote="github" revision="8.1.x" />
-  <project path="kernel/xiaomi/msm8953" name="goayandi/android_kernel_xiaomi_msm8953-2" remote="github" revision="8.1.x" />
-
 </manifest>
